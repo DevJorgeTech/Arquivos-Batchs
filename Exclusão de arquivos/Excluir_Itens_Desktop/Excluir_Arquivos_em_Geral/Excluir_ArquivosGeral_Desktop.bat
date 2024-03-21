@@ -3,5 +3,3 @@ for %%B in ("%USERPROFILE%\Desktop\*") do (
         del /s "%%B" 2>nul
     )
 )
-
-pause
