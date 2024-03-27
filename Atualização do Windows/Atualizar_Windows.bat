@@ -1,0 +1,1 @@
+slmgr.vbs /ipk ABCDE-FGHIJ-KLMN-OPQRS-TUVWX
